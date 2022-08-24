@@ -6,7 +6,7 @@ public class class1 {
 		// TODO Auto-generated method stub
    System.out.println(" first time");	
    System.out.println(" second time ");
-   System.out.println(" third");
+   System.out.println(" third time");
 	}
 
 }
